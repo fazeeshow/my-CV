@@ -24,7 +24,7 @@
                         <th>Zeeshan Majeed</th>
                     </tr>
                     <tr>
-                        <td>Freelancer at fiver</td>
+                        <td>Freelancer </td>
                     </tr>
                     <tr>
                         <td>A video editior </td>
